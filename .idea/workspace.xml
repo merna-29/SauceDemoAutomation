@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a731fd3f-f3be-43d9-93d7-7ab7e58d4991" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2wFBYWweKRslHGUx04S8gPxEHSW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.CartTest.executor": "Run",
+    "TestNG.CartTest.testRemoveItemFromCart.executor": "Run",
+    "TestNG.InventoryTest.executor": "Run",
+    "TestNG.InventoryTest.testAddProductToCart.executor": "Run",
+    "TestNG.InventoryTest.testPriceSorting.executor": "Run",
+    "TestNG.InventoryTest.testProductCount.executor": "Run",
+    "TestNG.InventoryTest.testProductImageNavigation.executor": "Run",
+    "TestNG.InventoryTest.testProductSorting.executor": "Run",
+    "TestNG.InventoryTest.testRemoveItemFromCart.executor": "Debug",
+    "TestNG.InventoryTest.testRemoveProductFromCart.executor": "Run",
+    "TestNG.InventoryTest.testVerifyAddedItemsInCart.executor": "Run",
+    "TestNG.SidebarMenuTest.executor": "Run",
+    "TestNG.SidebarMenuTest.testSidebarMenuCanBeClosed.executor": "Run",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/user/IdeaProjects/SauceDemoAutomation/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="TestNG.SidebarMenuTest">
+    <configuration name="CartTest.testRemoveItemFromCart" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SauceDemoAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.CartTest" />
+      <option name="METHOD_NAME" value="testRemoveItemFromCart" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InventoryTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SauceDemoAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.InventoryTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InventoryTest.testRemoveItemFromCart" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SauceDemoAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.InventoryTest" />
+      <option name="METHOD_NAME" value="testRemoveItemFromCart" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SidebarMenuTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SauceDemoAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.SidebarMenuTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SidebarMenuTest.testSidebarMenuCanBeClosed" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SauceDemoAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.SidebarMenuTest" />
+      <option name="METHOD_NAME" value="testSidebarMenuCanBeClosed" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.SidebarMenuTest" />
+        <item itemvalue="TestNG.SidebarMenuTest.testSidebarMenuCanBeClosed" />
+        <item itemvalue="TestNG.InventoryTest" />
+        <item itemvalue="TestNG.InventoryTest.testRemoveItemFromCart" />
+        <item itemvalue="TestNG.CartTest.testRemoveItemFromCart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a731fd3f-f3be-43d9-93d7-7ab7e58d4991" name="Changes" comment="" />
+      <created>1745627493684</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745627493684</updated>
+      <workItem from="1745627506902" duration="192000" />
+      <workItem from="1745944784167" duration="13874000" />
+      <workItem from="1745959734368" duration="606000" />
+      <workItem from="1745961080859" duration="10411000" />
+      <workItem from="1745972472038" duration="4796000" />
+      <workItem from="1745977331146" duration="145000" />
+      <workItem from="1746014448650" duration="5240000" />
+      <workItem from="1746020208659" duration="293000" />
+      <workItem from="1746020971132" duration="2377000" />
+      <workItem from="1746024620476" duration="3004000" />
+      <workItem from="1746185800850" duration="83000" />
+      <workItem from="1746227108457" duration="3498000" />
+      <workItem from="1746809947885" duration="1215000" />
+      <workItem from="1746811549816" duration="14000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:org.seleniumhq.selenium:selenium-java" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
